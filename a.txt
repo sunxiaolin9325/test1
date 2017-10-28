@@ -5,3 +5,4 @@ master said b
 =======
 dev said a
 >>>>>>> dev
+repair a bug
