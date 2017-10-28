@@ -6,3 +6,4 @@ master said b
 dev said a
 >>>>>>> dev
 repair a bug
+on issue_101 repair a bug
