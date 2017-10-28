@@ -1,3 +1,7 @@
 hello git
 Create a new branch is quick.
+<<<<<<< HEAD
 master said b
+=======
+dev said a
+>>>>>>> dev
