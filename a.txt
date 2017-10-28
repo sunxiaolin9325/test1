@@ -1,15 +1,1 @@
 hello git
-Create a new branch is quick.
-<<<<<<< HEAD
-master said b
-=======
-dev said a
->>>>>>> dev
-<<<<<<< HEAD
-repair a bug
-on issue_101 repair a bug
-=======
-working...
-work end
->>>>>>> dev
-conflict again
