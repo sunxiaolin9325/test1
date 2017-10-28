@@ -2,8 +2,10 @@ hello git
 Create a new branch is quick.
 <<<<<<< HEAD
 master said b
+xxx
 =======
 dev said a
 >>>>>>> dev
 working...
 work end
+hohoho
