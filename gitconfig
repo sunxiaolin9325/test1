@@ -1,0 +1,18 @@
+[user]
+	name = sunxiaolin9325
+	email = sunxiaolin9325@163.com
+[push]
+	default = simple
+[pull]
+	rebase = true
+[color]
+	ui = auto
+[alias]
+    st = status
+    co = checkout
+    ci = commit
+    br = branch
+    df = diff
+    lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+[http]
+	postBuffer = 524288000
